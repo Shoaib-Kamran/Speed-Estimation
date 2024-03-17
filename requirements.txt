@@ -1,0 +1,2 @@
+python-contrib-opencv
+imutils
